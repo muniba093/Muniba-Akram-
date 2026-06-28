@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muniba Akram 👋</h1>
-<h3 align="center">Frontend Developer & ML Enthusiast<br/>Women University Multan | Cybersecurity & AI Advocate</h3>
+<h3 align="center">Frontend Developer & AI Enthusiast<br/>Women University Multan | Cybersecurity</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+%7C+React+%26+PHP;ML+%2F+NLP+Engineer+in+the+Making;Certified+Ethical+Hacker+(EC-Council);Amal+Academy+Fellow+%7C+Stanford-Funded&font=Fira+Code&center=true&color=00F7FF&width=600&height=50" alt="Typing SVG"/>
